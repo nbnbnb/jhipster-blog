@@ -1,0 +1,2 @@
+# jhipster-blog
+JHipster Blog

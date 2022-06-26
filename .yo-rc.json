@@ -22,7 +22,7 @@
     "enableTranslation": true,
     "entities": ["Blog", "Post", "Tag"],
     "entitySuffix": "",
-    "herokuAppName": "peaceful-basin-11217",
+    "herokuAppName": "jjzhang-jhipster-blog",
     "herokuDeployType": "git",
     "herokuJavaVersion": "11",
     "jhiPrefix": "jhi",

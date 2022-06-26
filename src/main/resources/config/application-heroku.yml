@@ -12,7 +12,7 @@
 
 eureka:
   instance:
-    hostname: peaceful-basin-11217.herokuapp.com
+    hostname: jjzhang-jhipster-blog.herokuapp.com
     non-secure-port: 80
     prefer-ip-address: false
 
